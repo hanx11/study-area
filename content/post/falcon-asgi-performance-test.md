@@ -1,7 +1,7 @@
 +++
 title = 'Falcon ASGI API Performance Test'
 date = 2023-09-27T14:19:04+08:00
-draft = true
+draft = false
 +++
 
 公司最近与第三方合作的一款硬件产品需要每隔三秒请求服务器上报设备状态，
