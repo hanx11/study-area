@@ -38,7 +38,7 @@ Django ORM与Django Rest Framework提供的很多特性也可以让开发同学�
  - 脚本执行中，服务器的资源占用率
 
 测试结果:
-![测试结果](/falcon_asgi_performance_test_result.png)
+![测试结果](https://hannto-static.ks3-cn-beijing.ksyuncs.com/server/images/falcon_asgi_performance_test_result.png)
 
 模拟客户端请求代码:
 ```python
